@@ -1,4 +1,4 @@
-
+Project based On a BLogging Website for a Organisation with Admin Pannel.
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
 
 ***Disclaimer:** The information here may vary depending on the version you're using. Please refer to the `README.md` bundled
